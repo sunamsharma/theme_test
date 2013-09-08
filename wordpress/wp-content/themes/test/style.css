@@ -1,0 +1,9 @@
+/*Theme Name: Test Theme 
+URI: [The theme website]
+Description: [A description]
+Author: [Your name]
+Author URI: [Your website].
+[Any other comments].*/
+@import url("css/skel-noscript.css");
+@import url("css/style-n1.css");
+@import url("css/style.css");
